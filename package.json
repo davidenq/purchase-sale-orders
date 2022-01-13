@@ -1,0 +1,12 @@
+{
+  "name": "moovx-challenge",
+  "version": "1.0.0",
+  "description": "This is a FIFO problem. We have products arriving based on supply, and then sent to customers based on demand. Demand is from customers.  Supply is from the vendors",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
